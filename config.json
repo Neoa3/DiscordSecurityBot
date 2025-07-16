@@ -1,0 +1,10 @@
+{
+  "protection": {
+    "channelDelete": { "threshold": 5, "interval": 60 },
+    "channelCreate": { "threshold": 5, "interval": 60 },
+    "guildBanAdd": { "threshold": 5, "interval": 60 },
+    "guildMemberRemove": { "threshold": 5, "interval": 60 },
+    "roleRemove": { "threshold": 5, "interval": 60 }
+  },
+  "ownerId": "..."
+}

@@ -1,2 +1,10 @@
-# Auto detect text files and perform LF normalization
+# Normalize all text files
 * text=auto
+
+# Ensure consistent line endings
+*.js text eol=lf
+*.json text eol=lf
+*.ts text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.env text eol=lf
