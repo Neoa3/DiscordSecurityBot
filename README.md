@@ -79,7 +79,7 @@ All actions are tracked per-user and per-action type, with customizable threshol
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/veyth3/DiscordSecurityBot.git
+   git clone https://github.com/Neoa3/DiscordSecurityBot.git
    cd DiscordSecurityBot
    ```
 
