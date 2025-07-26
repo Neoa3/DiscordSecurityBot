@@ -154,5 +154,5 @@ Pull requests and suggestions are welcome! Please open an issue first to discuss
 
 If you need help setting up or using the bot, feel free to reach out:
 
-- 💬 **Discord Support Server**: [Join Here](https://discord.gg/XEHNf4UAst)
+- 💬 **📩 Communication via email**: [neo@noonserv.com](mailto:neo@noonserv.com)
 - 📧 **Contact the developer**: [neo.x8](https://discord.com/users/1316110658257031300)
